@@ -1,4 +1,4 @@
-# SPTP
+
 VAD-SPTP:Video Anomaly Detection Based on Predictive Spatio-Temporal Patches
 Environments
 - python 3.7.10
